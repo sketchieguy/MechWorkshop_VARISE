@@ -13,6 +13,7 @@ TagManager:
   - cuts6
   - cuts7
   - cuts8
+  - Test
   layers:
   - Default
   - TransparentFX
