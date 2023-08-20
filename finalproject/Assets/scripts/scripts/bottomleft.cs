@@ -5,7 +5,7 @@ using UnityEngine;
 public class bottomleft : MonoBehaviour
 {
     public Animator object1animator;
-
+    
     public bool animator1 = false;
     void Update()
     {   
