@@ -62,7 +62,7 @@ public class spawnAtTip : MonoBehaviour
             offset = transform.position - snapparent.transform.position;
             
         }
-        if (collider.gameObject.tag == "plate" || collider.gameObject.tag == "cuts5" || collider.gameObject.tag == "cuts6" || collider.gameObject.tag == "cuts7" || collider.gameObject.tag == "cuts8")
+        if (collider.gameObject.tag == "Test")
         {
             Instantiate(prefabToSpawn, banKai, Quaternion.identity);
             Debug.Log("lol");
