@@ -33,6 +33,7 @@ public class bottomleft : MonoBehaviour
         {
             yield return new WaitForSeconds(3);
             Destroy(gameObject);
+
         }
     }
 }
