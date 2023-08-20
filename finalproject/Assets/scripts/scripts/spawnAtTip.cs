@@ -18,23 +18,10 @@ public class spawnAtTip : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //banKai = this.gameObject.transform.GetChild(1).transform.position;
+        
     }
 
-    /*private void OnMouseDrag()
-    {
-        transform.position = Camera.main.ScreenToWorldPoint(Input.mousePosition - mousePosition);
-    }
-    private Vector3 GetMousePos()
-    {
-        return Camera.main.WorldToScreenPoint(transform.position);
-    }
-
-    private void OnMouseDown()
-    {
-        mousePosition = Input.mousePosition - GetMousePos();
-
-    }*/
+    
     
 
     // Update is called once per frame
